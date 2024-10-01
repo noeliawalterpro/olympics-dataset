@@ -4,8 +4,8 @@ Practice Writing SQL Queries using Real Dataset
 Source: https://techtfq.com/blog/practice-writing-sql-queries-using-real-dataset
 
 <ol>
-List of all these 20 :
-<<<<<<< HEAD
+
+<h2>List of all these 20 task :</h2>
 <li> How many olympics games have been held?
 </li><li>List down all Olympics games held so far with columns year, season, city.
 </li><li>Mention the total no of nations who participated in each olympics game?
