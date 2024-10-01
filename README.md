@@ -5,7 +5,7 @@ Source: https://techtfq.com/blog/practice-writing-sql-queries-using-real-dataset
 
 List of all these 20 :
 How many olympics games have been held?
-List down all Olympics games held so far.
+List down all Olympics games held so far with columns year, season, city.
 Mention the total no of nations who participated in each olympics game?
 Which year saw the highest and lowest no of countries participating in olympics?
 Which nation has participated in all of the olympic games?
