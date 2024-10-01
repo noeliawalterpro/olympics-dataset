@@ -3,4 +3,4 @@
 SELECT games, COUNT(DISTINCT sport) AS TotalSports
 FROM athlete_events
 GROUP BY games
-ORDER BY TotalSports DESC;
+ORDER BY TotalSports DESC , games ;
