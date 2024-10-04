@@ -2,10 +2,10 @@
 -- each olympics game?;
 
 SELECT 
-    Games , COUNT( DISTINCT team) AS 'Participated Nations'
+    Games , COUNT( DISTINCT noc) AS 'Participated Nations'
 FROM
     athlete_events
 GROUP BY games
-ORDER BY COUNT( DISTINCT team) DESC ;
+ORDER BY COUNT( DISTINCT noc) DESC ;
 
 
